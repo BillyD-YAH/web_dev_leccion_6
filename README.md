@@ -1,4 +1,4 @@
-Mi libro de recetas.
+# Mi libro de recetas
 
 Receta: Hamburguesa
 
@@ -7,3 +7,5 @@ Ingredientes:
 - Torta
 - Salsas
 - Tocineta
+- salsa tomate
+- salsa barbacoa
