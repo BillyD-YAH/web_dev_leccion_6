@@ -1,0 +1,3 @@
+hamburguesa: $5
+Milkshake: $2
+Fries: $1
